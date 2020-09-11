@@ -1,4 +1,4 @@
-package strategypattern.Quack;
+package strategypattern;
 
 public class Squeak {
 	public void quack() {
